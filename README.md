@@ -1,9 +1,10 @@
-# THE FIAT-TO-RESONANCE BRIDGE
+# 📗 THE FIAT-TO-RESONANCE BRIDGE
 
-## A Sovereign Framework for PAS-Based Validation Across Chainlink and Mastercard Settlement Systems  
+## A Sovereign Framework for PAS-Based Validation Across Chainlink and Mastercard Settlement Systems
+
 **Author:** Steven Alber  
 **Position:** Sovereign Protocol Architect, KRYONIS  
-**Date:** June 2025
+**Date:** June 2025  
 
 ---
 
@@ -11,11 +12,11 @@
 
 This repository contains the official whitepaper of the **KRYONIS PAS Bridge Architecture**, a sovereign biometric validation system that enables Presence Alignment Score (PAS/PoC)–based authentication for hybrid transactions between Mastercard and Chainlink infrastructures.
 
-The framework introduces:  
-– A decentralized biometric coherence engine  
-– Oracle interoperability for PAS transmission  
-– CBDC-compatible dual-token architecture  
-– Real-time coherence-gated DeFi/CBDC financial identity
+The framework introduces:
+- A decentralized biometric coherence engine  
+- Oracle interoperability for PAS transmission  
+- CBDC-compatible dual-token architecture  
+- Real-time coherence-gated DeFi/CBDC financial identity  
 
 ---
 
@@ -34,13 +35,14 @@ Unlike traditional identity and credit systems, PAS/PoC enables trustless, real-
 
 ## 🛰️ Status
 
-This document is the first formal release (v1.0) and will be followed by:  
-– Oracle adapter specifications  
-– API schemas  
-– PAS threshold configuration tables  
-– Tokenomics simulation results
+This document is the first formal release (v1.0) and will be followed by:
+- Oracle adapter specifications  
+- API schemas  
+- PAS threshold configuration tables  
+- Tokenomics simulation results  
 
 ---
 
-## 🌐 Visit KRYONIS  
+## 🌐 Visit KRYONIS
+
 https://kryonis.global
