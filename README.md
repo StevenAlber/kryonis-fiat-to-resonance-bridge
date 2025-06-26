@@ -16,7 +16,7 @@ This repository hosts the official whitepaper for the KRYONIS sovereign validati
 ### 📄 Download Whitepaper
 
 👉 [Download Whitepaper (v1.0)](./KRYONIS_PAS_Bridge_Architecture_v1.pdf)  
-SHA-256: `to-be-added-here-after-upload`
+SHA-256: `f8200add40698798737a7848aa9f05e8bb817fff1094467b5b8df9f04d0789a5`
 
 ---
 
