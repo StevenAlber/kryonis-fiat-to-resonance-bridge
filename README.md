@@ -22,6 +22,8 @@ The framework introduces:
 
 ## 📎 Download Whitepaper
 
+## 📎 Download Whitepaper
+
 👉 [KRYONIS_PAS_Bridge_Architecture_v1.pdf](https://github.com/StevenAlber/kryonis-fiat-to-resonance-bridge/raw/main/KRYONIS_PAS_Bridge_Architecture_v1.pdf)  
 👉 [KRYONIS_Sovereign_Middleware_Framework_26JUN2025.pdf](https://github.com/StevenAlber/kryonis-fiat-to-resonance-bridge/raw/main/KRYONIS_Sovereign_Middleware_Framework_26JUN2025.pdf)
 
