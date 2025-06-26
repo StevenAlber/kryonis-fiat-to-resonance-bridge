@@ -38,7 +38,7 @@ SHA-256: `f8200add40698798737a7848aa9f05e8bb817fff1094467b5b8df9f04d0789a5`
 
 ### 🌐 About KRYONIS
 
-KRYONIS is a post-fiat civilizational protocol that redefines economic participation through **biometric resonance** rather than price, credit, or speculative value. This document lays the groundwork for its secure interoperability with legacy systems while preserving **sovereign coherence filters**.
+KRYONIS is a post–fiat civilizational protocol that redefines economic participation through **biometric resonance** rather than price, credit, or speculative value. This document lays the groundwork for its secure interoperability with legacy systems while preserving **sovereign coherence filters**.
 
 More info at: [https://kryonis.global](https://kryonis.global)
 
