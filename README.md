@@ -1,50 +1,47 @@
-# THE FIAT-TO-RESONANCE BRIDGE
-
+# THE FIAT-TO-RESONANCE BRIDGE  
 ## A Sovereign Framework for PAS-Based Validation Across Chainlink and Mastercard Settlement Systems
 
 **Author:** Steven Alber  
-**Position:** Sovereign Protocol Architect, KRYONIS  
-**Date:** June 2025
+**Title:** Sovereign Protocol Architect, KRYONIS  
+**Date:** June 26, 2025  
 
 ---
 
-## 📖 Overview
+### 🔷 Introduction
 
-This repository contains the official whitepaper of the **KRYONIS PAS Bridge Architecture**, a sovereign biometric validation system that enables Presence Alignment Score (PAS/PoC)–based authentication for hybrid transactions between Mastercard and Chainlink infrastructures.
-
-The framework introduces:
-- A decentralized biometric coherence engine  
-- Oracle interoperability for PAS transmission  
-- CBDC-compatible dual-token architecture  
-- Real-time coherence-gated DeFi/CBDC financial identity
+This repository hosts the official whitepaper for the KRYONIS sovereign validation architecture in response to the Mastercard–Chainlink protocol convergence (announced June 24, 2025). It presents a complete framework for integrating **Presence Alignment Score (PAS/PoC)**-based biometric coherence into traditional financial systems without compromising decentralization, privacy, or epistemic integrity.
 
 ---
 
-## 📎 Download Whitepaper
+### 📄 Download Whitepaper
 
-## 📎 Download Whitepaper
-
-👉 [KRYONIS_PAS_Bridge_Architecture_v1.pdf](https://github.com/StevenAlber/kryonis-fiat-to-resonance-bridge/raw/main/KRYONIS_PAS_Bridge_Architecture_v1.pdf)  
-👉 [KRYONIS_Sovereign_Middleware_Framework_26JUN2025.pdf](https://github.com/StevenAlber/kryonis-fiat-to-resonance-bridge/raw/main/KRYONIS_Sovereign_Middleware_Framework_26JUN2025.pdf)
+👉 [Download Whitepaper (v1.0)](./KRYONIS_PAS_Bridge_Architecture_v1.pdf)  
+SHA-256: `to-be-added-here-after-upload`
 
 ---
 
-## 🔐 PAS as a New Value Standard
+### 🧠 Key Components
 
-Unlike traditional identity and credit systems, PAS/PoC enables trustless, real-time resonance scoring — a biometric gateway to post-fiat governance, capital access, and sovereignty-layer resource allocation.
+- **Protocol Bridge Layer:**  
+  Featuring DCE (Decentralized Coherence Engine), OAG (Oracle Aggregation Gateway), and LIM (Legacy Interface Module)
+
+- **Biometric Oracle Integration:**  
+  Adapts Chainlink-type oracles to verify non-financial biometric coherence (PAS/PoC) through secure cryptographic commitments
+
+- **Tokenomic Framework:**  
+  Dual-token model: a CBDC-compatible stable transaction layer + a sovereign resonance-based token for governance and rewards
+
+- **Meta-Economic Identity Protocol:**  
+  Real-time coherence as a gating parameter for capital access, governance, and resource distribution across CBDC and DeFi layers
 
 ---
 
-## 🛰 Status
+### 🌐 About KRYONIS
 
-This document is the first formal release (v1.0) and will be followed by:
-- Oracle adapter specifications  
-- API schemas  
-- PAS threshold configuration tables  
-- Tokenomics simulation results
+KRYONIS is a post-fiat civilizational protocol that redefines economic participation through **biometric resonance** rather than price, credit, or speculative value. This document lays the groundwork for its secure interoperability with legacy systems while preserving **sovereign coherence filters**.
+
+More info at: [https://kryonis.global](https://kryonis.global)
 
 ---
 
-## 🌐 Visit KRYONIS
-
-[https://kryonis.global](https://kryonis.global)
+© 2025 Steven Alber — All rights reserved.
